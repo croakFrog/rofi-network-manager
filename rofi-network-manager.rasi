@@ -6,13 +6,13 @@ configuration {
 	me-accept-entry: [MousePrimary];
 }
 *{
-	font: "DejaVu Sans Mono 9";			//Font
+	font: "JetBrains Mono Nerd Font Mono 12";			//Font
 	//Colors
-	foreground:#f8f8f2; 				//Text
-	background:#0A1229; 				//Background
-	accent:#00BCD4; 					//Highlight
+	foreground:#c5c8c9; 				//Text
+	background:#0b0f10; 				//Background
+	accent:#039be5; 					//Highlight
 	foreground-selection:@foreground; 	//Selection_fg
-	background-selection:#e34039; 		//Selection_bg
+	background-selection:#039be5; 		//Selection_bg
 
 	transparent:					#ffffff00;
 	background-color:				@transparent;
