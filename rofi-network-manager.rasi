@@ -6,7 +6,7 @@ configuration {
 	me-accept-entry: [MousePrimary];
 }
 *{
-	font: "JetBrains Mono Nerd Font Mono 12";			//Font
+	font: "JetBrainsMono Nerd Font Mono 12";			//Font
 	//Colors
 	foreground:#c5c8c9; 				//Text
 	background:#0b0f10; 				//Background
